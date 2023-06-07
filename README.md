@@ -1,16 +1,11 @@
-## Project Title
-Analyzing Crime Trends in a City and Forecasting Future Crime Rates
+# Analyzing Crime Trends in a City and Forecasting Future Crime Rates
 
 ## Table of Contents
-Project Description 
-
-Data Sources
-
-Installation Requirements
-
-Usage
-
-Contributing
+1. Project Description 
+2. Data Sources
+3. Installation Requirements
+4. Usage
+5. Contributing
 
 ## Project Description
 This project aims to analyze crime trends in a city and forecast future 
@@ -58,4 +53,3 @@ If you would like to contribute to this project, please open a pull
 request with your changes. Before making any significant changes, please 
 discuss them with the project maintainers to ensure that they align with 
 the project's goals.
-
